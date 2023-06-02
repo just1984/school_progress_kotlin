@@ -1,0 +1,2 @@
+// es wird eine DO-Schleife gestartet.. hier wird der variablen i immer 1 hinzugezaehlt bis (while) i einen wert von kleiner oder gleich 5 hat.
+// da es sich jedoch um eine do-schleife handelt, wird das ergebnis im letzt println eine 6 sein.
